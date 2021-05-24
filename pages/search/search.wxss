@@ -83,11 +83,11 @@
 
 /* 搜索内容展示 */
 .searchContent {
-  color: #d43c33;
+  color: #2ECCFA;
   height: 80rpx;
   line-height: 80rpx;
   font-size: 24rpx;
-  border-bottom: 1rpx solid #d43c33;
+  border-bottom: 1rpx solid #2ECCFA;
 
 }
 

@@ -5,7 +5,7 @@
     <view class="search" bindtap="toSearch">
       搜索音乐
     </view>
-    <image src="/static/images/logo.png"></image>
+    <!-- <image src="/static/images/logo.png"></image> -->
   </view>
 
   <!-- 导航区域 -->

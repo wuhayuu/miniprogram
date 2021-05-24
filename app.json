@@ -9,13 +9,13 @@
   "style": "v2",
   "sitemapLocation": "sitemap.json",
   "window": {
-    "navigationBarBackgroundColor": "#d43c33",
+    "navigationBarBackgroundColor": "#2ECCFA",
     "navigationBarTextStyle": "white",
-    "navigationBarTitleText": "硅谷云音乐"
+    "navigationBarTitleText": "软工作业音乐"
   },
   "tabBar": {
     "color": "#333",
-    "selectedColor": "#d43c33",
+    "selectedColor": "#2ECCFA",
     "backgroundColor": "#fff",
     "list": [
       {
@@ -35,6 +35,7 @@
         "text": "个人中心",
         "iconPath": "/static/images/tabs/tab-my.png",
         "selectedIconPath": "/static/images/tabs/tab-my-current.png"
+        
       }
     ]
   },

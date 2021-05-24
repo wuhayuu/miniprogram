@@ -48,7 +48,7 @@
   position: relative;
   display: flex;
   flex-direction: column;
-  /* background: linear-gradient(left, red, black); */
+  background: linear-gradient(left, red, black);
   background: rgba(0, 0, 0, .7);
   height: 240rpx;
   color: #f7d680;
@@ -156,7 +156,7 @@
 
 .nav-section .nav-item .iconfont {
   font-size: 50rpx;
-  color: #d43c33;
+  color: #2ECCFA;
   line-height: 70rpx;
 }
 

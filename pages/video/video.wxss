@@ -20,7 +20,7 @@
   font-size: 26rpx;
   text-align: center;
   line-height: 60rpx;
-  color: #d43c33;
+  color: #2ECCFA;
 }
 
 
@@ -46,7 +46,7 @@
 
 
 .navItem .active {
-  border-bottom: 1rpx solid #d43c33;
+  border-bottom: 1rpx solid #2ECCFA;
 }
 
 
